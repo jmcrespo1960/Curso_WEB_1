@@ -1,0 +1,1 @@
+windows.alert("HOLA MUNDO DESDE MI ARCHIVO EXTERNO!");
